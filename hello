@@ -1,0 +1,9 @@
+package hello
+
+import "fmt"
+
+const WeeksToDays = 7 //константа можно указать тип или он автоматом определится
+
+func HelloSergey() {
+	fmt.Println("Hi Sergey")
+}
